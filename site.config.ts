@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '2a2c37b55d6c46c299dc8eb360671035',
+  rootNotionPageId: '7875426197cf461698809def95960ebf',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chunyanli',
-  domain: 'Chunyanli',
-  author: 'Chunyanli',
+  name: 'Next.js Notion Starter Kit',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  author: 'Travis Fischer',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: null,
-  github: null,
-  Instagram: 'christyleecy2',
+  twitter: 'transitive_bs',
+  github: 'transitive-bullshit',
+  linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
