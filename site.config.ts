@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'christyischunyanli',
-  domain: 'christyischunyanli.vercel.app',
+  name: 'christychunyanli',
+  domain: 'christychunyanli.vercel.app',
   author: 'Chunyan li',
 
   // whether to use the default notion navigation style or a custom one with links to
