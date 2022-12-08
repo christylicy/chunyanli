@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '2a2c37b55d6c46c299dc8eb360671035',
+  rootNotionPageId: '879f3e43a69a4ebba66c1a3238a564cb',
 
   // basic site info (required)
   name: 'christychunyanli',
