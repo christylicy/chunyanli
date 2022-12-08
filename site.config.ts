@@ -6,7 +6,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'christychunyanli',
-  domain: 'christychunyanli.vercel.app',
+  domain: 'christyischunyanli.vercel.app',
   author: 'Chunyan li',
 
   // whether to use the default notion navigation style or a custom one with links to
